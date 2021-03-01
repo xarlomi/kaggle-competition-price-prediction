@@ -2,7 +2,7 @@
 Kaggle competition in the prediction of diamond prices 
 <<<<<<< HEAD
 
-![](output/diamond_presentation.jpg)
+![](output/diamonds_presentation.jpg)
 
 
 
