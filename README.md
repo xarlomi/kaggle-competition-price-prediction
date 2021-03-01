@@ -17,5 +17,5 @@ I have made use of Linear Regressions and Random Forests, but mainly of the latt
 ## Libraries used: 
 Sklearn, Pandas, Numpy, Matplotlib, Seaborn
 
-### Here is a summary of my project:
+### Project summary:
 ![](output/diamonds_presentation.jpg)
