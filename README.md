@@ -12,7 +12,7 @@ On my first analysis, I spotted highly correlated variables that could then be d
 
 On my second analysis, I figured out that lower MSE was more a result of a right hyperparameter tuning, than of feature selection. 
 
-I have made use of Linear Regressions and Random Forests, but mainly of the latter as it was without doubts the most convenient. 
+I have made use of Random Forests. 
 
 ## Libraries used: 
 Sklearn, Pandas, Numpy, Matplotlib, Seaborn
